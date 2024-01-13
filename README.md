@@ -1,11 +1,5 @@
 # 基于JFinal的助学金管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ： **助学金**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于JFinal的助学金管理系统拥有管理员和学生两种角色
@@ -34,37 +28,34 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108432.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208101108432.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108131.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208101108131.jpg)
 
 ### 4.2 学生模块
 
-![学生-个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108962.jpg)
+![学生-个人信息](https://www.codeshop.fun/Typora-Images/202208101108962.jpg)
 
-![学生-申请助学金](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108632.jpg)
+![学生-申请助学金](https://www.codeshop.fun/Typora-Images/202208101108632.jpg)
 
-![学生-申请信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108058.jpg)
+![学生-申请信息](https://www.codeshop.fun/Typora-Images/202208101108058.jpg)
 
-![学生-助学金发放信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108080.jpg)
+![学生-助学金发放信息](https://www.codeshop.fun/Typora-Images/202208101108080.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108315.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202208101108315.jpg)
 
-![管理员-添加学生](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108564.jpg)
+![管理员-添加学生](https://www.codeshop.fun/Typora-Images/202208101108564.jpg)
 
-![管理员-管理员信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108092.jpg)
+![管理员-管理员信息](https://www.codeshop.fun/Typora-Images/202208101108092.jpg)
 
-![管理员-申请助学金管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101108237.jpg)
+![管理员-申请助学金管理](https://www.codeshop.fun/Typora-Images/202208101108237.jpg)
 
-![管理员-助学金发放管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101109719.jpg)
+![管理员-助学金发放管理](https://www.codeshop.fun/Typora-Images/202208101109719.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**助学金** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**助学金**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
